@@ -1,0 +1,124 @@
+Order ID,Customer Name,Gender,Country,Order Date,Product,Category,Quantity,Price,Total
+1001,Jane Roe,FEMALE,canada,2023/02/01,Camera,Electronics,3.0,,
+1002,Bob Johnson,male,india,03/02/2023,Keyboard,Accessories,1.0,,
+1003,Eva Green,Female,Canada,04/02/2023,Monitor,Electronics,3.0,129.99,389.97
+1004,Bob Johnson,,United kingdom,07-02-2023,Keyboard,Accessories,1.0,,
+1005,David Lee,,india,02-02-2023,Keyboard,Accessories,,49.99,
+1006,Jane Roe,Female,UK,2023/02/02,Headphones,Electronics,3.0,,
+1007,Hannah Wells,,United kingdom,2023/02/05,Keyboard,Accessories,3.0,,
+1008,David Lee,,india,10/02/2023,Camera,Electronics,,499.99,
+1009,David Lee,Female,United kingdom,2023/02/05,Phone,Electronics,,,
+1010,,,canada,11-02-2023,Laptop,Electronics,2.0,899.5,1799.0
+1011,Frank Ocean,,UK,09/02/2023,Laptop,Electronics,2.0,,
+1012,Eva Green,,United States,2023/02/03,Headphones,Electronics,1.0,199.99,199.99
+1013,Bob Johnson,,USA,2023/02/07,Tablet,Electronics,3.0,299.99,899.97
+1014,Bob Johnson,FEMALE,india,08-02-2023,Smart Watch,Electronics,3.0,,
+1015,Bob Johnson,Female,U.S.A,07/02/2023,Phone,Electronics,,,
+1016,David Lee,male,india,2023/02/02,Laptop,Electronics,3.0,,
+1017,Bob Johnson,FEMALE,U.S.A,2023-02-06,Mouse,Accessories,3.0,,
+1018,Jane Roe,Male,United States,2023-02-11,Smart Watch,Electronics,2.0,249.99,499.98
+1019,David Lee,male,UK,2023/02/11,Smart Watch,Electronics,3.0,249.99,749.97
+1020,Bob Johnson,,U.S.A,02-02-2023,Smart Watch,Electronics,1.0,,
+1021,David Lee,Male,India,2023-02-05,Laptop,Electronics,2.0,899.5,1799.0
+1022,John Doe,Female,Canada,09-02-2023,Keyboard,Accessories,1.0,,
+1023,,FEMALE,india,03/02/2023,Monitor,Electronics,3.0,129.99,389.97
+1024,Hannah Wells,Male,Canada,2023/02/09,Monitor,Electronics,1.0,129.99,129.99
+1025,,male,United kingdom,2023/02/05,Camera,Electronics,,,
+1026,Frank Ocean,male,canada,2023/02/02,Phone,Electronics,,,
+1027,Hannah Wells,,canada,01-02-2023,Camera,Electronics,,499.99,
+1028,Bob Johnson,Female,Canada,09-02-2023,Keyboard,Accessories,,,
+1029,Liam Gray,Female,UK,10/02/2023,Mouse,Accessories,2.0,19.99,39.98
+1030,Alice Smith,FEMALE,USA,02/02/2023,Keyboard,Accessories,1.0,,
+1031,Eva Green,FEMALE,India,2023-02-11,Keyboard,Accessories,1.0,,
+1032,Bob Johnson,FEMALE,U.S.A,03/02/2023,Smart Watch,Electronics,3.0,,
+1033,Isaac Newton,,U.S.A,09-02-2023,Phone,Electronics,1.0,699.99,699.99
+1034,Alice Smith,Male,UK,04/02/2023,Phone,Electronics,,,
+1035,David Lee,male,india,2023-02-08,Headphones,Electronics,1.0,,
+1036,Eva Green,,India,2023/02/09,Phone,Electronics,2.0,699.99,1399.98
+1037,John Doe,Female,United States,2023/02/07,Keyboard,Accessories,3.0,49.99,149.97
+1038,Isaac Newton,Male,India,01-02-2023,Phone,Electronics,,,
+1039,Hannah Wells,FEMALE,United kingdom,03-02-2023,Headphones,Electronics,1.0,199.99,199.99
+1040,John Doe,Female,canada,2023-02-10,Headphones,Electronics,3.0,199.99,599.97
+1041,Alice Smith,,UK,05-02-2023,Mouse,Accessories,3.0,19.99,59.97
+1042,,Female,india,2023-02-07,Tablet,Electronics,2.0,299.99,599.98
+1043,,,Canada,2023-02-05,Tablet,Electronics,3.0,,
+1044,Jane Roe,,United States,2023/02/04,Phone,Electronics,,699.99,
+1045,Liam Gray,Female,USA,08-02-2023,Smart Watch,Electronics,2.0,,
+1046,Alice Smith,male,UK,06-02-2023,Tablet,Electronics,,299.99,
+1047,,,USA,03-02-2023,Camera,Electronics,3.0,,
+1048,David Lee,,U.S.A,09-02-2023,Phone,Electronics,3.0,,
+1049,Isaac Newton,,Canada,05/02/2023,Keyboard,Accessories,1.0,49.99,49.99
+1050,David Lee,male,United kingdom,2023/02/04,Mouse,Accessories,3.0,,
+1051,Liam Gray,,USA,2023/02/07,Phone,Electronics,,,
+1052,Eva Green,,Canada,2023-02-06,Laptop,Electronics,,,
+1053,Isaac Newton,FEMALE,india,02/02/2023,Smart Watch,Electronics,,249.99,
+1054,David Lee,,india,05-02-2023,Phone,Electronics,1.0,699.99,699.99
+1055,Liam Gray,,USA,07-02-2023,Tablet,Electronics,,299.99,
+1056,Jane Roe,male,Canada,07-02-2023,Mouse,Accessories,,19.99,
+1057,Hannah Wells,Female,UK,2023/02/09,Headphones,Electronics,3.0,,
+1058,,male,canada,2023/02/02,Camera,Electronics,1.0,499.99,499.99
+1059,,Female,United States,09/02/2023,Laptop,Electronics,,,
+1060,Liam Gray,Female,United kingdom,10/02/2023,Laptop,Electronics,1.0,,
+1061,Hannah Wells,,United kingdom,06-02-2023,Keyboard,Accessories,2.0,,
+1062,Eva Green,,U.S.A,2023/02/09,Mouse,Accessories,3.0,,
+1063,Alice Smith,Male,United States,2023-02-09,Camera,Electronics,2.0,,
+1064,John Doe,FEMALE,UK,07/02/2023,Camera,Electronics,2.0,499.99,999.98
+1065,Liam Gray,male,USA,05-02-2023,Monitor,Electronics,3.0,,
+1066,Alice Smith,Male,Canada,2023/02/04,Smart Watch,Electronics,,,
+1067,John Doe,,USA,05/02/2023,Smart Watch,Electronics,,,
+1068,Bob Johnson,,United kingdom,07-02-2023,Tablet,Electronics,2.0,,
+1069,David Lee,Female,United States,2023-02-07,Laptop,Electronics,2.0,899.5,1799.0
+1070,Hannah Wells,,Canada,11-02-2023,Camera,Electronics,2.0,499.99,999.98
+1071,Isaac Newton,FEMALE,india,2023-02-03,Mouse,Accessories,1.0,19.99,19.99
+1072,Alice Smith,FEMALE,Canada,2023/02/08,Mouse,Accessories,1.0,,
+1073,John Doe,Male,UK,2023/02/10,Keyboard,Accessories,,49.99,
+1074,,male,UK,2023-02-02,Mouse,Accessories,1.0,19.99,19.99
+1075,Liam Gray,male,Canada,2023/02/08,Monitor,Electronics,1.0,,
+1076,Frank Ocean,Male,United States,2023-02-03,Smart Watch,Electronics,,249.99,
+1077,Jane Roe,FEMALE,Canada,2023-02-02,Laptop,Electronics,1.0,899.5,899.5
+1078,David Lee,Male,India,2023-02-02,Keyboard,Accessories,1.0,,
+1079,David Lee,FEMALE,United States,2023/02/11,Headphones,Electronics,,199.99,
+1080,Hannah Wells,Male,United States,11/02/2023,Mouse,Accessories,3.0,19.99,59.97
+1081,Hannah Wells,male,Canada,01-02-2023,Monitor,Electronics,2.0,,
+1082,Liam Gray,,India,2023/02/06,Laptop,Electronics,2.0,899.5,1799.0
+1083,Jane Roe,,India,2023/02/11,Smart Watch,Electronics,,249.99,
+1084,,FEMALE,India,09/02/2023,Monitor,Electronics,1.0,,
+1085,Jane Roe,male,United States,2023/02/06,Headphones,Electronics,2.0,,
+1086,Bob Johnson,,United kingdom,2023/02/10,Phone,Electronics,2.0,699.99,1399.98
+1087,Jane Roe,,USA,04-02-2023,Monitor,Electronics,2.0,129.99,259.98
+1088,Alice Smith,Female,U.S.A,2023-02-03,Keyboard,Accessories,3.0,49.99,149.97
+1089,Isaac Newton,,canada,05/02/2023,Monitor,Electronics,,129.99,
+1090,Hannah Wells,Female,United States,2023-02-05,Keyboard,Accessories,1.0,49.99,49.99
+1091,Frank Ocean,,india,2023-02-02,Headphones,Electronics,,,
+1092,Eva Green,Male,U.S.A,04-02-2023,Laptop,Electronics,3.0,899.5,2698.5
+1093,Jane Roe,,United States,2023-02-02,Keyboard,Accessories,,,
+1094,Bob Johnson,,UK,09-02-2023,Camera,Electronics,1.0,,
+1095,Liam Gray,,UK,2023/02/08,Camera,Electronics,3.0,499.99,1499.97
+1096,Frank Ocean,Female,U.S.A,01/02/2023,Mouse,Accessories,2.0,19.99,39.98
+1097,,,United States,2023-02-06,Mouse,Accessories,3.0,19.99,59.97
+1098,Isaac Newton,,canada,05/02/2023,Laptop,Electronics,3.0,899.5,2698.5
+1099,Alice Smith,Female,United States,2023-02-08,Monitor,Electronics,,,
+1100,Alice Smith,,UK,2023/02/09,Monitor,Electronics,2.0,,
+1101,Hannah Wells,,U.S.A,2023-02-03,Tablet,Electronics,,,
+1102,Frank Ocean,Female,India,2023/02/05,Phone,Electronics,,,
+1103,Liam Gray,male,canada,07/02/2023,Smart Watch,Electronics,,,
+1104,David Lee,Female,Canada,02-02-2023,Laptop,Electronics,3.0,,
+1105,Hannah Wells,Male,UK,2023-02-06,Headphones,Electronics,1.0,199.99,199.99
+1106,Liam Gray,male,USA,02-02-2023,Keyboard,Accessories,1.0,49.99,49.99
+1107,,,U.S.A,2023-02-03,Smart Watch,Electronics,,249.99,
+1108,John Doe,Female,Canada,06-02-2023,Tablet,Electronics,2.0,,
+1109,Hannah Wells,FEMALE,india,06-02-2023,Laptop,Electronics,2.0,899.5,1799.0
+1110,Eva Green,Female,india,01-02-2023,Tablet,Electronics,3.0,,
+1111,Bob Johnson,,UK,07-02-2023,Mouse,Accessories,3.0,19.99,59.97
+1112,Frank Ocean,Female,Canada,2023-02-06,Laptop,Electronics,,,
+1113,Hannah Wells,Male,India,02/02/2023,Camera,Electronics,3.0,499.99,1499.97
+1114,Frank Ocean,male,United States,2023/02/01,Camera,Electronics,3.0,499.99,1499.97
+1115,Isaac Newton,Female,Canada,07/02/2023,Smart Watch,Electronics,3.0,,
+1116,Frank Ocean,,United States,2023/02/08,Phone,Electronics,3.0,,
+1117,Liam Gray,FEMALE,United kingdom,03-02-2023,Headphones,Electronics,1.0,199.99,199.99
+1118,John Doe,Male,United kingdom,01-02-2023,Monitor,Electronics,3.0,,
+1119,John Doe,male,United States,2023/02/09,Camera,Electronics,3.0,499.99,1499.97
+1120,Liam Gray,Female,UK,05-02-2023,Camera,Electronics,2.0,499.99,999.98
+1011,Frank Ocean,,UK,09/02/2023,Laptop,Electronics,2.0,,
+1012,Eva Green,,United States,2023/02/03,Headphones,Electronics,1.0,199.99,199.99
+1013,Bob Johnson,,USA,2023/02/07,Tablet,Electronics,3.0,299.99,899.97
